@@ -1,0 +1,1 @@
+Our SLA target is 95% for tenant B. Support is business hours.

@@ -1,0 +1,1 @@
+Our SLA is 99.9%. Support is 24/7 for tenant A.
